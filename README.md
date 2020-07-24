@@ -1,4 +1,4 @@
-# 3D Printer Profiles
+# BuildBee 3D Printer Profiles
 This repository contains a list of 3D printer profiles for use with the BuildBee cloud printing system.  Printer manufacturers and the community are encouraged 
 to make a pull requests to fine tune individual 3D printer settings.  
 
