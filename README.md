@@ -8,7 +8,3 @@ https://buildbee.com/landing/add-printer
 # About BuildBee
 3D print from any device with BuildBee Desktop and remotely print using a web interface for your 3D printer using BuildBee CloudDock.  
 https://buildbee.com/
-
-
-# 3D-printer-profiles
-3D printer profiles for BuildBee Desktop and BuildBee CloudDock cloud printing service.
