@@ -1,0 +1,23 @@
+M501
+M75
+M104 S[temperature]
+M140 S[bed_temperature]
+G28
+G29
+G90
+G1 X0 Y0 Z15 F4000
+M109 S[temperature]
+M190 S[bed_temperature]
+G1 X15 Y50 Z0.5 F4000
+G91
+G1 Y120 E20 F1000
+G1 X-1
+G1 Y-120 E20
+G1 X-1
+G1 Y100 E16.5
+G1 Y20 E2
+G1 X5 F4000
+G1 Z2
+G90
+G92 E0
+M117 Printing

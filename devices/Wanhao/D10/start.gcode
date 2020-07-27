@@ -1,0 +1,11 @@
+M501
+G28
+M75
+M104 S[temperature]
+G90
+G1 X0 Y0 Z15 F4000
+M109 S[temperature]
+G92 E0
+G1 E4
+G92 E0
+M117 Printing

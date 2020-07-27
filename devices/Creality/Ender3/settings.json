@@ -1,0 +1,99 @@
+{
+    "axes": [
+        {
+            "M": {
+                "axisName": {
+                    "N": "0"
+                },
+                "inverted": {
+                    "BOOL": false
+                },
+                "maxFeedRate": {
+                    "N": "150"
+                }
+            }
+        },
+        {
+            "M": {
+                "axisName": {
+                    "N": "1"
+                },
+                "inverted": {
+                    "BOOL": false
+                },
+                "maxFeedRate": {
+                    "N": "150"
+                }
+            }
+        },
+        {
+            "M": {
+                "axisName": {
+                    "N": "2"
+                },
+                "inverted": {
+                    "BOOL": false
+                },
+                "maxFeedRate": {
+                    "N": "25"
+                }
+            }
+        },
+        {
+            "M": {
+                "axisName": {
+                    "N": "3"
+                },
+                "inverted": {
+                    "BOOL": false
+                },
+                "maxFeedRate": {
+                    "N": "70"
+                }
+            }
+        }
+    ],
+    "baudRate": "115200",
+    "deviceClass": "0",
+    "extruderOffsets": [
+        {
+            "M": {
+                "x": {
+                    "N": "0"
+                },
+                "y": {
+                    "N": "0"
+                }
+            }
+        }
+    ],
+    "heatedBed": "true",
+    "heatedChamber": "false",
+    "imgUrl": "https://download.buildflow.online/PrinterIcons/ender3.svg",
+    "manufacturer": "Creality",
+    "name": "Ender3",
+    "transcoder": "0",
+    "volume": {
+        "depth": {
+            "N": "220"
+        },
+        "formFactor": {
+            "N": "0"
+        },
+        "height": {
+            "N": "250"
+        },
+        "origin": {
+            "N": "0"
+        },
+        "width": {
+            "N": "220"
+        }
+    },
+    "swapXYJogAxes": "",
+    "invertXJogAxis": "",
+    "gpxSettings": "",
+    "invertZJogAxis": "",
+    "gpxCancelPauseEmergencyStopWorkaround": "",
+    "invertYJogAxis": ""
+}

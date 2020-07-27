@@ -1,0 +1,99 @@
+{
+    "axes": [
+        {
+            "M": {
+                "axisName": {
+                    "N": "0"
+                },
+                "inverted": {
+                    "BOOL": false
+                },
+                "maxFeedRate": {
+                    "N": "150"
+                }
+            }
+        },
+        {
+            "M": {
+                "axisName": {
+                    "N": "1"
+                },
+                "inverted": {
+                    "BOOL": false
+                },
+                "maxFeedRate": {
+                    "N": "150"
+                }
+            }
+        },
+        {
+            "M": {
+                "axisName": {
+                    "N": "2"
+                },
+                "inverted": {
+                    "BOOL": false
+                },
+                "maxFeedRate": {
+                    "N": "25"
+                }
+            }
+        },
+        {
+            "M": {
+                "axisName": {
+                    "N": "3"
+                },
+                "inverted": {
+                    "BOOL": false
+                },
+                "maxFeedRate": {
+                    "N": "70"
+                }
+            }
+        }
+    ],
+    "baudRate": "250000",
+    "deviceClass": "0",
+    "extruderOffsets": [
+        {
+            "M": {
+                "x": {
+                    "N": "0"
+                },
+                "y": {
+                    "N": "0"
+                }
+            }
+        }
+    ],
+    "heatedBed": "false",
+    "heatedChamber": "false",
+    "imgUrl": "https://download.buildflow.online/PrinterIcons/me3d.svg",
+    "manufacturer": "Me3D",
+    "name": "Me2",
+    "transcoder": "0",
+    "volume": {
+        "depth": {
+            "N": "220"
+        },
+        "formFactor": {
+            "N": "0"
+        },
+        "height": {
+            "N": "180"
+        },
+        "origin": {
+            "N": "0"
+        },
+        "width": {
+            "N": "200"
+        }
+    },
+    "swapXYJogAxes": "false",
+    "invertXJogAxis": "",
+    "gpxSettings": "",
+    "invertZJogAxis": "false",
+    "gpxCancelPauseEmergencyStopWorkaround": "",
+    "invertYJogAxis": ""
+}
